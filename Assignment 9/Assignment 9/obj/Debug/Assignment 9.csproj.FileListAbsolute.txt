@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Assignment 9\Assignment 9\bin\Debug\Assignment 9.exe.config
+C:\Users\User\source\repos\Assignment 9\Assignment 9\bin\Debug\Assignment 9.exe
+C:\Users\User\source\repos\Assignment 9\Assignment 9\bin\Debug\Assignment 9.pdb
+C:\Users\User\source\repos\Assignment 9\Assignment 9\obj\Debug\Assignment 9.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Assignment 9\Assignment 9\obj\Debug\Assignment_9.Form1.resources
+C:\Users\User\source\repos\Assignment 9\Assignment 9\obj\Debug\Assignment_9.Properties.Resources.resources
+C:\Users\User\source\repos\Assignment 9\Assignment 9\obj\Debug\Assignment 9.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Assignment 9\Assignment 9\obj\Debug\Assignment 9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Assignment 9\Assignment 9\obj\Debug\Assignment 9.exe
+C:\Users\User\source\repos\Assignment 9\Assignment 9\obj\Debug\Assignment 9.pdb
